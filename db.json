@@ -1,0 +1,9 @@
+{
+  "todos": [
+    { "id": 1, "val": "React" },
+    { "id": 2, "val": "Angular" },
+    { "id": 3, "val": "Rails" },
+    { "id": 4, "val": "Node.js" },
+    { "id": 5, "val": "jQuery" }
+  ]
+}
